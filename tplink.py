@@ -1,4 +1,4 @@
-# reset internet connection on tplink modem, to get new IP for bypassing DDOS protection 
+# reset internet connection on tp-link modem, to get new IP for bypassing DDOS protection 
 
 import requests
 
